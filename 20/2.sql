@@ -1,0 +1,2 @@
+DELETE FROM teachers
+WHERE id=123563219

@@ -1,0 +1,3 @@
+UPDATE courses
+SET id=522
+WHERE id=6658
